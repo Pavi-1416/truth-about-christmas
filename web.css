@@ -1,0 +1,19 @@
+.bg-container{
+    border-style:groove;
+    border-radius: 4px;
+    border-color:gold;
+}
+.head{
+    font-family:"serif";
+    font-size:21px;
+    color:darkblue;
+}
+.para{
+    font-family:"serif";
+    font-size:18px;
+    color:darkblue;
+}
+.img{
+    width:128px;
+    height:120px;
+}
